@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.*;
 
 
-public class Euler {
+public class Problem11 {
 	
 	public static final int SIZE = 20;
 	

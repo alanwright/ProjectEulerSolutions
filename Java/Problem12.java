@@ -1,7 +1,7 @@
 //Solution took 711 ms
 import java.util.*;
 
-public class Euler {
+public class Problem12 {
 	
 	public static void main(String[] args) {
 		long tik = System.nanoTime();

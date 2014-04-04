@@ -5,7 +5,7 @@ import java.lang.*;
 import java.io.*;
 
 /* Name of the class has to be "Main" only if the class is public. */
-class Ideone
+public class Problem13
 {
 	public final static int NUM_STRINGS = 100;
 	public final static int STRING_LENGTH = 50;

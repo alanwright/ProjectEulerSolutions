@@ -4,7 +4,7 @@
 
 import java.math.BigInteger;
 
-class Problem15
+public class Problem15
 {
 	public final static int SIZE = 20;
 	
